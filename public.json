@@ -1,4 +1,5 @@
-[
+{
+  "dumps": [
   "https://media.discordapp.net/attachments/452500568712413184/1032987090981494815/ThoughtfulMortifiedBellsnake.mp4",
   "https://media.discordapp.net/attachments/452500568712413184/1032982186871238717/EasyEquatorialAnnashummingbird.mp4",
   "https://media.discordapp.net/attachments/452500568712413184/1032978948679794698/CavernousMammothPronghorn.mp4",
@@ -2111,4 +2112,5 @@
   "https://media.discordapp.net/attachments/452500568712413184/488872653290078218/15907469.gif",
   "https://media.discordapp.net/attachments/452500568712413184/487451156432551966/18110938.gif",
   "https://media.discordapp.net/attachments/452500568712413184/487451157174812692/19518438.gif"
-]
+  ]
+}
