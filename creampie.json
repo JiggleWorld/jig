@@ -1,4 +1,5 @@
-[
+{
+  "dumps": [
   "https://media.discordapp.net/attachments/449569060573937665/1032940178223923210/2020_KCC_PV.mp4",
   "https://media.discordapp.net/attachments/449569060573937665/1032817590092959744/SarcasticWeakFlyingfox-mobile.mp4",
   "https://media.discordapp.net/attachments/449569060573937665/1031687258035736637/imgur-7zWjbsk.mp4",
@@ -744,4 +745,5 @@
   "https://media.discordapp.net/attachments/449569060573937665/993684766484344903/ShortJointArizonaalligatorlizard-mobile_1.mp4",
   "https://media.discordapp.net/attachments/449569060573937665/951522576855871488/1646918272953.webm",
   "https://media.discordapp.net/attachments/449569060573937665/951522577430495293/1646768141700.webm"
-]
+  ]
+}
